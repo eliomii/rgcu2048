@@ -1,9 +1,5 @@
 title: "RGCU 2048"
 
-# One entry per tile, in order: 2, 4, 8, 16, ...
-# Each entry is an image path (relative to index.html) or a full URL.
-# Leave an entry empty to show just the number on that tile.
-# The number of entries sets the winning tile: n entries -> 2^n.
 tiles:
   - images/ryland.JPG  # 2
   - images/colt.JPG  # 4
