@@ -1,0 +1,26 @@
+title: "RGCU 2048"
+
+# One entry per tile, in order: 2, 4, 8, 16, ...
+# Each entry is an image path (relative to index.html) or a full URL.
+# Leave an entry empty to show just the number on that tile.
+# The number of entries sets the winning tile: n entries -> 2^n.
+tiles:
+  - images/ryland.JPG  # 2
+  - images/colt.JPG  # 4
+  - images/court.JPG  # 8
+  - images/driver.JPG # 16
+  - images/k.JPG # 32
+  - images/luke.JPG # 64
+  - images/julian.PNG # 128
+  - images/holland.JPG # 256
+  - images/jerry.JPG # 512
+  - images/seb.JPG # 1024
+  - images/jacob.JPG # 2048
+  - images/stephen.JPG # 4096
+  - images/jared.JPG # 8192
+  - images/henry.JPG # 16384
+  - images/ken.JPG # 32768
+  - images/willy.JPG # 65536
+  - images/lars.JPG # 131072
+
+show_numbers_on_images: false
